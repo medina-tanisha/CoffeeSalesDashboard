@@ -6,17 +6,17 @@ This data contains information about people around the US who drink select coffe
 
 This data was taken from Kaggle.
 
-## Performance Analysis:
+#### Performance Analysis:
  How effective is the loyalty card program in retaining customers and increasing sales?
  
-# Answer using Dashboard: 
+###### Answer using Dashboard: 
  
-## Data-Drive Decision Making:
+#### Data-Drive Decision Making:
  Should there be adjustments in pricing or promotions for select coffee products based on customer demographics or buying behavior?
 
-# Answer using Dashboard: 
+##### Answer using Dashboard: 
  
-## Predictive Analysis. 
+#### Predictive Analysis. 
  What factors contribute most to customer retention and loyalty?
 
-# Answer using Dashboard: 
+##### Answer using Dashboard: 
