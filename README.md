@@ -14,9 +14,9 @@ This data was taken from Kaggle.
 #### Data-Drive Decision Making:
  Should there be adjustments in pricing or promotions for select coffee products based on customer demographics or buying behavior?
 
-##### Answer using Dashboard: 
+###### Answer using Dashboard: 
  
 #### Predictive Analysis. 
  What factors contribute most to customer retention and loyalty?
 
-##### Answer using Dashboard: 
+###### Answer using Dashboard: 
